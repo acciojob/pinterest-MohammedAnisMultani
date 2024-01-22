@@ -1,1 +1,32 @@
-/*  your css code here. If applicable */
+.hero
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#reference
+{
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+    
+}
+.sbox
+{
+   
+    
+    padding: 10px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+#submit
+{
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 8px;
+}
